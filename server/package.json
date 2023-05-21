@@ -5,8 +5,11 @@
   "type": "module",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon index"
+    "start": "nodemon index",
+    "predeploy" : "npm run build",
+    "deploy" : "gh-pages -d build"
   },
+  "homepage": "https://adityas1731.github.io/AI-Image-Generator/",
   "author": "",
   "license": "ISC",
   "dependencies": {
