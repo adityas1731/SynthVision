@@ -3,6 +3,7 @@
 A simple AI Image Generation created using MongoDB, ExpressJS, ReactJS and NodeJS (MERN Stack).
 
 FrontEnd - ReactJS, Tailwind
+
 BackEnd - MongoDB, OpenAI's DALL E Model, NodeJS, Express
 
 
