@@ -11,9 +11,10 @@ The App uses OPEN AI'S DALL E model to convert text based input from the user an
 # Home Page
 
 ![image](https://github.com/adityas1731/AI-Image-Generation-MERN/assets/91349180/c3269bab-6514-4a18-a9a4-33394f7c98ff)
-The user is presented with a collection of AI generated images from the prompts they give to the model with a hover effect showing the prompt as well as an option to download it.
-![image](https://github.com/adityas1731/AI-Image-Generation-MERN/assets/91349180/a8d2dff1-0fd3-4eef-99e1-dad52fc0075f)
 
+The user is presented with a collection of AI generated images from the prompts they give to the model with a hover effect showing the prompt as well as an option to download it.
+
+![image](https://github.com/adityas1731/AI-Image-Generation-MERN/assets/91349180/a8d2dff1-0fd3-4eef-99e1-dad52fc0075f)
 
 
 # Create Page
