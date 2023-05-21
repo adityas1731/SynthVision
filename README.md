@@ -7,7 +7,7 @@ FrontEnd - ReactJS, Tailwind
 BackEnd - MongoDB, OpenAI's DALL E Model, NodeJS, Express
 
 
-The App uses OPEN AI'S DALL E model to convert text based input from the user and convert into an AI generated image.
+The App uses Open AI'S DALL E model to convert text based input from the user and convert into an AI generated image.
 
 # Home Page
 
