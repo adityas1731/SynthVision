@@ -6,18 +6,18 @@
   "main": "index.js",
   "scripts": {
     "start": "nodemon index",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "homepage": "https://adityas1731.github.io/AI-Image-Generator/",
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cloudinary": "^1.37.0",
+    "cloudinary": "^1.37.1",
     "cors": "^2.8.5",
-    "dotenv": "^16.0.3",
+    "dotenv": "^16.1.4",
     "express": "^4.18.2",
-    "mongoose": "^7.2.0",
+    "mongoose": "^7.2.4",
     "nodemon": "^2.0.22",
     "openai": "^3.2.1"
   }
