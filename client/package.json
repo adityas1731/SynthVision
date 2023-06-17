@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "build": "react-scripts build",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -28,5 +29,6 @@
     "postcss": "^8.4.23",
     "tailwindcss": "^3.3.2",
     "vite": "^4.0.0"
+    
   }
 }
